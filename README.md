@@ -1,2 +1,4 @@
 # Javascript---Reaction-game
-Js practice
+Js practice for The Complete Web Developer Course 2.0 
+
+
